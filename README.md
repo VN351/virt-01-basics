@@ -10,7 +10,7 @@
 
 # Ответы к заданию 1
 
-1. ![alt text](../images/task-1-1.png)
+1. ![alt text](/assets/images/task-1-1.png)
 2. ![alt text](https://github.com/VN351/virt-01-basics/raw/main/images/task-1-2.png)
 3. В образе пердставлены инструменты такие как:
    - Интерфейс командной строки Yandex Cloud;
